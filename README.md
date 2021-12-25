@@ -1,0 +1,2 @@
+# githubCdn
+github jsdelivr,cdn
