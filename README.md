@@ -1,2 +1,2 @@
 # githubCdn
-github jsdelivr,cdn
+github jsdelivr cdn
